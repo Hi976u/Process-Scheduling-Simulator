@@ -4,7 +4,3 @@ algorithms in an operating system environment. The primary goal of this project 
 understand, compare, and evaluate the performance of various scheduling algorithms, aiding in the optimization of system resource
 utilization.
 
-# Libraries 
-Open-cv(version:- 4.5.5)
-you can use follwing command for install Opencv
-pip install opencv-python==4.5.5
