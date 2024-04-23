@@ -19,3 +19,6 @@ utilization.
 ![Screenshot (153)](https://github.com/Hi976u/Process-Scheduling-Simulator/assets/159236478/fe26a052-7907-4995-9535-8b1026b7da71)
 
 ![Screenshot (152)](https://github.com/Hi976u/Process-Scheduling-Simulator/assets/159236478/6a8975de-8a62-4f8b-b587-5ddeafd3abf4)
+
+# About Us
+![Screenshot (149)](https://github.com/Hi976u/Process-Scheduling-Simulator/assets/159236478/ab34d84c-fca6-4a6e-a2a7-0a53ff21c94e)
